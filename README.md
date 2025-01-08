@@ -3,7 +3,7 @@
 **Master’s in ICT Learning | Licensed Teacher in Informatics & Technology**  
 ✨ *Expert in E-learning, Web Development, and EdTech Solutions* ✨  
 
-📚 **Estudiante activo en Platzi**, comprometido con el aprendizaje continuo y el crecimiento profesional.  
+ 
 
 ---
 
@@ -12,6 +12,8 @@
 🎓 **Education First**:  
 - **Master’s in ICT Learning** – Specializing in virtual education and innovative teaching methodologies.  
 - **Licensed Teacher** – Dedicated to inspiring learners in Informatics and Technology.  
+
+📚 **Estudiante activo en Platzi**, comprometido con el aprendizaje continuo y el crecimiento profesional. 
 
 💡 With **8+ years of experience** in virtual education, I specialize in:  
 - **E-learning Development** (Moodle, SCORM)  
