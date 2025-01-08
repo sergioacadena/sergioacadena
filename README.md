@@ -3,6 +3,8 @@
 **Master’s in ICT Learning | Licensed Teacher in Informatics & Technology**  
 ✨ *Expert in E-learning, Web Development, and EdTech Solutions* ✨  
 
+📚 **Estudiante activo en Platzi**, comprometido con el aprendizaje continuo y el crecimiento profesional.  
+
 ---
 
 ## 🌟 About Me  
